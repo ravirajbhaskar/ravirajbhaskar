@@ -61,8 +61,10 @@
 
 ### 📫 Let’s Connect
 
-- 🔗 [LinkedIn – ravi-raj-bhaskar](https://linkedin.com/in/ravi-raj-bhaskar)  
-- 📧 `raviraj.devops@gmail.com`
+- 🔗 [LinkedIn – ravi-raj-bhaskar](www.linkedin.com/in/
+ravi-raj-bhaskar-515b9446
+  
+- 📧 `bhaskaranna.bhaskar@gmail.com`
 
 ---
 
