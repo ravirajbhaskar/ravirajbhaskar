@@ -71,14 +71,16 @@ ravi-raj-bhaskar-515b9446
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Ravi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravirajbhaskar&show_icons=true&theme=tokyonight" alt="Ravi's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Ravi's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravirajbhaskar&theme=tokyonight" alt="Ravi's GitHub Streak" />
 </p>
 
 ---
 
 ### 💬 DevOps Mantra
 
-> “Automate everything, monitor always, deploy fast, recover faster.”  
+> “Automate everything. Monitor deeply. Deploy fearlessly.
+I don't just push code — I ship stability, speed, and scale.
+DevOps isn’t a process, it's my mindset. 🚀⚙️”  
 > – *Ravi Raj Bhaskar*
